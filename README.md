@@ -47,13 +47,6 @@ The Resume Screener is a web-based application built with **Java, Spring Boot, M
 
 ---
 
-## Enhancements Made
-- Removed common stop words like *we, are, a, the* to improve accuracy.
-- Added **weighted scoring**: more important keywords contribute more to the total score.
-- Stored **full history** of analyzed resumes with timestamp for future reference.
-
----
-
 ## Future Scope / AI Integration Ideas
 - **Semantic matching:** Use NLP models to understand skills even if phrased differently (e.g., "Spring Boot" vs "Spring Framework").
 - **Resume parsing:** Automatically extract sections like Education, Skills, Work Experience.
