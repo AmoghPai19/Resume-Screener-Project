@@ -53,4 +53,4 @@ The Resume Screener is a web-based application built with **Java, Spring Boot, M
 - **Custom AI scoring model:** Build a ML model to predict candidate suitability.
 - **File format support:** Add PDF, DOCX parsing.
 - **Dashboard:** Show analytics such as most common skills, average scores, etc.
-- **Integration with job p**
+
